@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Giới thiệu bản thân - Quỳnh Anh</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #e0f7ff, #ffe6f2);
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.profile {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.profile img {
+    width: 250px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.info {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    flex: 1;
+    min-width: 250px;
+}
+
+.section {
+    margin-top: 25px;
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
+
+ul {
+    line-height: 1.8;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #555;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+
+<h1>🌸 Trang giới thiệu bản thân 🌸</h1>
+
+<div class="profile">
+    <img src="anh1.jpg">
+    <img src="anh2.jpg">
+
+    <div class="info">
+        <h2>Thông tin cá nhân</h2>
+        <p><b>Họ tên:</b> Trần Thụy Quỳnh Anh</p>
+        <p><b>Năm sinh:</b> 2008</p>
+        <p><b>Lớp:</b> 12C2A</p>
+        <p><b>Trường:</b> THPT Chuyên Hùng Vương</p>
+    </div>
+</div>
+
+<div class="section">
+<h2>✨ Giới thiệu ngắn</h2>
+<p>
+Mình là Quỳnh Anh – một học sinh lớp 12 với tính cách khá vui vẻ, thích chụp ảnh,
+nghe nhạc và khám phá những điều mới. Mình luôn cố gắng học tập tốt và tận hưởng
+tuổi học trò một cách trọn vẹn.
+</p>
+</div>
+
+<div class="section">
+<h2>💖 Sở thích</h2>
+<ul>
+<li>Chụp ảnh và chỉnh ảnh</li>
+<li>Nghe nhạc khi rảnh</li>
+<li>Xem phim và vlog</li>
+<li>Trang trí góc học tập</li>
+<li>Đi chơi với bạn bè</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>🎯 Mục tiêu</h2>
+<p>
+Hoàn thành tốt chương trình lớp 12, đậu đại học mong muốn và không ngừng phát triển bản thân mỗi ngày.
+</p>
+</div>
+
+<div class="footer">
+<p>© 2026 – Trang web của Quỳnh Anh 💙</p>
+</div>
+
+</div>
+</body>
+</html>
